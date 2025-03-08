@@ -9,5 +9,5 @@ A starter template create by me for React Router v7 Framework mode.
 ### Get started.
 Fire up your terminal and paste the following command -
 ```
-npx create-react-router@latest shayokh-app --template ShayokhShorfuddin/RRv7-shayokh-template
+npx create-react-router@latest <project-name> --template ShayokhShorfuddin/RRv7-shayokh-template
 ```
